@@ -1,0 +1,12 @@
+#create table products (id varchar(255), name varchar(80), price decimal(10,2), primary key(id))
+services:
+  db:
+    image: mysql:latest
+    container_name: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: curso_go
+      MYSQL_PASSWORD: root
+    ports:
+      - "3307:3306"

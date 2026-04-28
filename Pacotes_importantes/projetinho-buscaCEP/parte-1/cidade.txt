@@ -1,0 +1,13 @@
+CEP: 37537-096
+Logradouro: Rua José Ribeiro da Silva
+Complemento: 
+Unidade: 
+Bairro: Jardim dos Estados
+Localidade: Santa Rita do Sapucaí
+UF: MG
+Estado: Minas Gerais
+Região: Sudeste
+IBGE: 3159605
+GIA: 
+DDD: 35
+SIAFI: 5191
