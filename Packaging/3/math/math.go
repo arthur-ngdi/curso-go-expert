@@ -1,4 +1,4 @@
-package main
+package math
 
 type math struct {
 	a int
